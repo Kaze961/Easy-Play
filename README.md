@@ -1,5 +1,3 @@
-![Screenshot_2](https://user-images.githubusercontent.com/83350146/122285788-6b70eb00-ceef-11eb-9847-81e6d6ec1e08.png)
-
 # Easy-Play
 
 *Welcome to Easy-Play*
@@ -53,3 +51,4 @@ Please do not sell this Program or rename it and say that it is yours.
 Kaze#6991
 
 Marcel :)
+![Screenshot_2](https://user-images.githubusercontent.com/83350146/122285788-6b70eb00-ceef-11eb-9847-81e6d6ec1e08.png)
