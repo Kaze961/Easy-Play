@@ -1,4 +1,5 @@
-![Screenshot_1](https://user-images.githubusercontent.com/83350146/122285642-48463b80-ceef-11eb-8962-312187157590.png)
+![Screenshot_2](https://user-images.githubusercontent.com/83350146/122285788-6b70eb00-ceef-11eb-9847-81e6d6ec1e08.png)
+
 # Easy-Play
 
 *Welcome to Easy-Play*
