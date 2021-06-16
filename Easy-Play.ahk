@@ -1,4 +1,5 @@
-﻿#NoEnv
+;shits hardcoded
+#NoEnv
 #singleinstance, force
 ;Main Gui
 c:
