@@ -9,8 +9,7 @@ to share this Software with the you.
 
 *****Please read this Document carefully!*****
 
-Installation:
-
+*****Installation:
 1:Extract Folder on Desktop
 2:Run Installer
 3:click Install Easy-Play
@@ -18,7 +17,6 @@ Installation:
 5:click ok
 6:install vcredist
 7:Done
-
 
 Safety / Windows Defender and Antivirus Detection:
 
