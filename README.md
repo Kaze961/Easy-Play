@@ -51,6 +51,7 @@ Please do not sell this Program or rename it and say that it is yours.
 Kaze#6991
 
 Marcel :)
-![Screenshot_1](https://user-images.githubusercontent.com/83350146/122286203-e63a0600-ceef-11eb-8b99-9b182f3841b4.png)
+![Screenshot_2](https://user-images.githubusercontent.com/83350146/122286418-1f727600-cef0-11eb-8c5f-0088263cb312.png)
+
 
 
