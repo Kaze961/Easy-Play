@@ -1,3 +1,4 @@
+![Screenshot_1](https://user-images.githubusercontent.com/83350146/122285642-48463b80-ceef-11eb-8962-312187157590.png)
 # Easy-Play
 
 *Welcome to Easy-Play*
