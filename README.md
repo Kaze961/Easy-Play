@@ -9,8 +9,8 @@ to share this Software with the you.
 
 *****Please read this Document carefully!*****
 
-*****Installation:
-1:Extract Folder on Desktop
+Installation:
+1:Extract Folder on !!!Desktop!!!
 2:Run Installer
 3:click Install Easy-Play
 4:read the message, click OK and wait
