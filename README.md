@@ -44,7 +44,7 @@ At the Moment Easy-Play only Supports Songs without special characters like ń o
 
 
 
-Please do not sell this Program, modify, distrobute or rename it and say that it is yours.
+*****Please do not sell this Program, modify, distrobute or rename it and say that it is yours.*****
 
 Kaze#6991
 
