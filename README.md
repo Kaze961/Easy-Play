@@ -2,7 +2,6 @@
 
 *Welcome to Easy-Play*
 
-Thank you for downloading Easy-Play
 
 I started working on Easy-Play when I was 14 back in 2018. I finished it so I think it will be cool
 to share this Software with the you.
