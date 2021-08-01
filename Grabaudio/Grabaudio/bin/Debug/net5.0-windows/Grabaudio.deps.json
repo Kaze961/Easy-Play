@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Grabaudio/1.0.0": {
+        "dependencies": {
+          "NAudio.Wasapi": "2.0.0"
+        },
+        "runtime": {
+          "Grabaudio.dll": {}
+        }
+      },
+      "NAudio.Core/2.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/NAudio.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "NAudio.Wasapi/2.0.0": {
+        "dependencies": {
+          "NAudio.Core": "2.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NAudio.Wasapi.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grabaudio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NAudio.Core/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-knmGOIYbzn9ZGkFcVs5d3zEYvi50jVriyEirVtAHjkcDoo2ziK32bZb7KkFARLD4lhCGkqp6uT0+0fc4JIfQcw==",
+      "path": "naudio.core/2.0.0",
+      "hashPath": "naudio.core.2.0.0.nupkg.sha512"
+    },
+    "NAudio.Wasapi/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7ES+jfZyOooBp86gql9BZ/OjKFmGfLaSLCtJagtCYiRGxfauHp4hXyeuwxS2mPLBxBGxBo9oGThN6y3QY+/w/w==",
+      "path": "naudio.wasapi/2.0.0",
+      "hashPath": "naudio.wasapi.2.0.0.nupkg.sha512"
+    }
+  }
+}
