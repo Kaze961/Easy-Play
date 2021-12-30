@@ -1,7 +1,6 @@
-# Easy-Play
-
 *Welcome to Easy-Play*
 
+Thank you for downloading Easy-Play
 
 I started working on Easy-Play when I was 14 back in 2018. I finished it so I think it will be cool
 to share this Software with the you.
@@ -9,13 +8,18 @@ to share this Software with the you.
 *****Please read this Document carefully!*****
 
 Installation:
-1:Extract Folder on Desktop!
-2:Run Installer
-3:click Install Easy-Play
-4:read the message, click OK and wait
-5:click ok
-6:install vcredist
-7:Done
+1.Extract Folder on Desktop
+2. Run Installer
+3. click Install Easy-Play
+4. read the message, click OK and wait
+5.click ok
+6.install vcredist
+7.Done
+
+Uninstall:
+1. Delete the Easy-play Folder in C:/
+2. Delete Easy-play.exe
+3. Done
 
 Safety / Windows Defender and Antivirus Detection:
 
@@ -38,12 +42,8 @@ These 3 Programs will be downloaded during the installation.
 
 If any owner of these 3 Programs has an Problem with this contact marcel.d04@outlook.de
 
-*****Please do not sell this Program, modify, distrobute or rename it and say that it is yours.*****
+Please do not sell this Program or rename it and say that it is yours.
 
 Kaze#6991
 
 Marcel :)
-![Screenshot_2](https://user-images.githubusercontent.com/83350146/122286418-1f727600-cef0-11eb-8c5f-0088263cb312.png)
-
-
-
