@@ -38,11 +38,6 @@ These 3 Programs will be downloaded during the installation.
 
 If any owner of these 3 Programs has an Problem with this contact marcel.d04@outlook.de
 
-!!!
-At the Moment Easy-Play only Supports Songs without special characters like ń or russian symbols, because ahk dont want to move the files lmao.
-
-
-
 *****Please do not sell this Program, modify, distrobute or rename it and say that it is yours.*****
 
 Kaze#6991
