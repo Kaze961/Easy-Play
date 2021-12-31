@@ -8,13 +8,13 @@ to share this Software with the you.
 *****Please read this Document carefully!*****
 
 Installation:
-1.Extract Folder on Desktop
+1. Extract Folder on Desktop
 2. Run Installer
 3. click Install Easy-Play
 4. read the message, click OK and wait
-5.click ok
-6.install vcredist
-7.Done
+5. click ok
+6. install vcredist
+7. Done
 
 Uninstall:
 1. Delete the Easy-play Folder in C:/
