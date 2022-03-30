@@ -1,4 +1,5 @@
 ALL BUGS FIXED IN NEXT VERSION
+
 *Welcome to Easy-Play*
 
 Thank you for downloading Easy-Play
