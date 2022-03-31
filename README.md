@@ -1,4 +1,3 @@
-ALL BUGS FIXED IN NEXT VERSION
 
 *Welcome to Easy-Play*
 
