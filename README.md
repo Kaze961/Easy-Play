@@ -43,8 +43,6 @@ These 3 Programs will be downloaded during the installation.
 
 If any owner of these 3 Programs has an Problem with this contact marcel.d04@outlook.de
 
-Kaze#6991
-
 Marcel :)
 
 ![image](https://user-images.githubusercontent.com/83350146/147822115-f7038734-e176-4cd6-89f7-e2200248923f.png)
